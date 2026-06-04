@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portfolio</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+header{
+    background:#333;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 50px;
+}
+
+.logo p{
+    font-size:12px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-left:20px;
+    font-size:14px;
+}
+
+.hero{
+    background:#555;
+    color:white;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    padding:50px;
+}
+
+.hero-text{
+    width:50%;
+}
+
+.hero-text h1{
+    font-size:40px;
+    margin-bottom:20px;
+}
+
+.hero-text p{
+    margin-bottom:20px;
+    line-height:1.6;
+}
+
+.hero button{
+    background:#2f80ed;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    cursor:pointer;
+}
+
+.hero-image img{
+    width:350px;
+    border-radius:10px;
+}
+
+.about{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    padding:50px;
+    background:white;
+}
+
+.about-image img{
+    width:300px;
+}
+
+.about-text{
+    width:50%;
+}
+
+.about-text h2{
+    margin-bottom:20px;
+    color:#222;
+}
+
+.about-text p{
+    margin-bottom:20px;
+    line-height:1.8;
+}
+
+.btn{
+    background:#2f80ed;
+    color:white;
+    padding:12px 20px;
+    text-decoration:none;
+}
+
+footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+    <div class="logo">
+        <h2>Online Portfolio</h2>
+        <p>My Portfolio Website</p>
+    </div>
+
+    <nav>
+        <a href="#">HOME</a>
+        <a href="#">ABOUT</a>
+        <a href="#">SKILLS</a>
+        <a href="#">PROJECTS</a>
+        <a href="#">CONTACT</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <div class="hero-text">
+        <h1>BAVANI SANDRA</h1>
+        <p>
+            I am a CSE student passionate about Web Development,
+            HTML, CSS, Python, SQL and Programming.
+        </p>
+        <button>Hire Me</button>
+    </div>
+
+    <div class="hero-image">
+        <img src="Bavani.JPEG" alt="Profile">
+    </div>
+</section>
+
+<section class="about">
+    <div class="about-image">
+        <img src="Bavani.JPEG" alt="About">
+    </div>
+
+    <div class="about-text">
+        <h2>ABOUT ME</h2>
+        <p>
+            I am a B.Tech Computer Science Engineering student at
+            N.B.K.R. Institute of Science and Technology. I am interested
+            in web development and software development and enjoy
+            learning new technologies.
+        </p>
+
+        <a href="resume.PDF" class="btn" download>
+            DOWNLOAD RESUME
+        </a>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Bavani Sandra | Portfolio</p>
+</footer>
+
+</body>
+</html>
