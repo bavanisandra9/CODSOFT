@@ -5,20 +5,24 @@ CODSOFT-Internship-task-1
 Personal Portofolio Website
 
 Name: BAVANI SANDRA
+
 College: NBKRIST
+
 Course: B.Tech 2nd year
+
 Domain: web development
+
 Internship: CODSOFT Internship
 
-Project Overview
+Project Overview:
 
 This is a Personal Portfolio Website designed to showcase the profile,skills,career objectives,and professional information if Bavani Sandra. 
 The website provides a simple and responsive interface where visitors learn about the developer and access the resume.
 
-Features
+Features:
 .Responsive and clean user interface
 .navigation menu for easy website navigation
-professional portfolio layout
+.professional portfolio layout
 
 Technologies used
 
@@ -44,6 +48,8 @@ Bavani Sandra
 B.Tech-Computer Science Engineering 
 N.B.K.R.IST
 Interested in Web Development
+
+
 
 output
 
