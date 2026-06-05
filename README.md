@@ -21,32 +21,48 @@ The website provides a simple and responsive interface where visitors learn abou
 
 Features:
 .Responsive and clean user interface
+
 .navigation menu for easy website navigation
+
 .professional portfolio layout
 
 Technologies used
 
 .HTML5
+
 .CSS3
+
 .FlexBox
+
 .Browsers for testing
 
 Sections Included
 
 1.Header Section
+
 . Portfolio title
+
 2.Hero Section
+
 . Developer name
+
 3.About Section
+
 . Personal and Eductational information 
+
 4.Footer Section
+
 . Copyright information 
 
 
 Developed by
+
 Bavani Sandra
-B.Tech-Computer Science Engineering 
+
+B.Tech-Computer Science Engineering
+
 N.B.K.R.IST
+
 Interested in Web Development
 
 
